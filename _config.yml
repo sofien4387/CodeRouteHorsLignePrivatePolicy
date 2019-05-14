@@ -1,0 +1,5 @@
+# Site settings
+title: Code Route France Hors-Ligne
+subtitle: "Code Route France Hors-Ligne "
+url: "https://sofien4387.github.io/CodeRouteHorsLignePrivatePolicy/" # the base hostname & protocol for your site
+baseurl: "/"
